@@ -127,7 +127,7 @@ a:hover {
 <hr>
 
 
-<h4> <font size= "4"> EDUCATION </font> </h4>
+<h4> <font size= "4"> EDUCATION </font> <br>
 <h5> Degree: SIT Tumkur </h5>
 
 <h5> Branch: CSE </h5>
