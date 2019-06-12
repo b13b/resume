@@ -138,7 +138,7 @@ a:hover {
 
 <hr>
 
-<h3 style= "text-aling:center;font-weight:bold;color:purple"> TECHNICAL SKILLS <br>
+<h4 style= "text-aling:center;font-weight:bold;color:purple"> TECHNICAL SKILLS </h4> <br>
 <p stle="font-size:10pt; color:indigo;font-weight:bold;font-family:Aerial,Helvetica,Sans-Serif"> Skills </p>
 <p style= "font size:10 pt;color:indigo;font-weight:bold;font=family:Aerial,Helvetica,Sans-Serif"> Programming in C   </p>
 <p style= "font size:10 pt;color:indigo;font-weight:bold;font=family:Aerial,Helvetica,Sans-Serif"> Programming in C++  </p>
