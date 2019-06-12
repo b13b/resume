@@ -147,7 +147,7 @@ a:hover {
 
 
 
-<h4> <font size= "4"> PROJECTS (implementation) </font> </h4>
+<h4> <font size= "3"> PROJECTS (implementation) </font> </h4>
 <h5> Online and Distance Learning using C++ </h5>
 <hr>
 
