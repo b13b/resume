@@ -107,7 +107,7 @@ a:hover {
 
 <td>
 
-<img src = "C:\Users\Admin\Pictures\1\image2.jpg" alt="Bhumica's Profile Photo" height = "82" width = "82">
+<img src = "image2.jpg" alt="Bhumica's Profile Photo" height = "82" width = "82">
 
 
 
